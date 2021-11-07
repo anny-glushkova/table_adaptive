@@ -49,7 +49,7 @@ body {
     background-color: hsl(83, 90%, 88%);
     grid-area: asd;
 }
-@media screen and (min-width: 1024px) and (min-width: 767px) {
+@media screen and (min-width: 1024px) {
 .wrapper {
     display: grid;
     grid-template-columns: repeat (9, 1fr);
