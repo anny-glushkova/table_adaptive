@@ -48,7 +48,7 @@ body {
     background-color: hsl(83, 90%, 88%);
     grid-area: asd;
 }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1080px) {
 .wrapper {
     display: grid;
     grid-template-columns: repeat (9, 1fr);
@@ -79,7 +79,7 @@ body {
 
 }
 }
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (min-width: 768px) and (max-width: 1079px) {
     .wrapper {
         display: grid;
         grid-template-columns: repeat (6, 1fr);
